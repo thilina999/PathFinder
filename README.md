@@ -1,2 +1,2 @@
 # PathFinder
-This is a path finder programe. 
+This is a path finder program. 
