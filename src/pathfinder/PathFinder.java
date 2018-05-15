@@ -12,8 +12,6 @@ import javax.swing.ImageIcon;
 
 /**
  * @author THILINA DISSANAYAKE 
- * IIT ID - 2016124
- * UOW ID - W1626640
  */
 
 public class PathFinder extends javax.swing.JFrame {
