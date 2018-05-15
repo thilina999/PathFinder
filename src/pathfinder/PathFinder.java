@@ -454,7 +454,6 @@ public class PathFinder extends javax.swing.JFrame {
                 }
 
                 if (current.y + 1 < grid[0].length) {
-
                     if (heuristics != 'm') {
                         // left top cell 
                         next = grid[current.x - 1][current.y + 1];                        
