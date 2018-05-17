@@ -1,2 +1,2 @@
 # PathFinder
-This is a path finder program. 
+This is a Path-Finder done with java using A* algorithm. 
